@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadora_MVVC.MainPage">
+
+    <StackLayout Padding="20">
+        <Label Text="Calculadora de IMC" FontSize="24" HorizontalOptions="Center" />
+
+        <Entry Placeholder="Peso (kg)" Keyboard="Numeric" Text="{Binding Peso}" />
+        <Entry Placeholder="Altura (m)" Keyboard="Numeric" Text="{Binding Altura}" />
+
+        <Button Text="Calcular IMC" Command="{Binding CalcularCommand}" />
+
+        <Label Text="{Binding ResultadoIMC, StringFormat='IMC: {0:F2}'}" FontSize="20" HorizontalOptions="Center" />
+    </StackLayout>
+
+</ContentPage>

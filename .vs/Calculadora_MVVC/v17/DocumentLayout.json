@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manue\\source\\repos\\Calculadora_MVVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EEBA42-F8EC-4918-8FFC-CAD1023EF606}|Calculadora_MVVC.csproj|c:\\users\\manue\\source\\repos\\calculadora_mvvc\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EEBA42-F8EC-4918-8FFC-CAD1023EF606}|Calculadora_MVVC.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EEBA42-F8EC-4918-8FFC-CAD1023EF606}|Calculadora_MVVC.csproj|c:\\users\\manue\\source\\repos\\calculadora_mvvc\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EEBA42-F8EC-4918-8FFC-CAD1023EF606}|Calculadora_MVVC.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EEBA42-F8EC-4918-8FFC-CAD1023EF606}|Calculadora_MVVC.csproj|c:\\users\\manue\\source\\repos\\calculadora_mvvc\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2EEBA42-F8EC-4918-8FFC-CAD1023EF606}|Calculadora_MVVC.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EEBA42-F8EC-4918-8FFC-CAD1023EF606}|Calculadora_MVVC.csproj|c:\\users\\manue\\source\\repos\\calculadora_mvvc\\imcviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EEBA42-F8EC-4918-8FFC-CAD1023EF606}|Calculadora_MVVC.csproj|solutionrelative:imcviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EEBA42-F8EC-4918-8FFC-CAD1023EF606}|Calculadora_MVVC.csproj|c:\\users\\manue\\source\\repos\\calculadora_mvvc\\imcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2EEBA42-F8EC-4918-8FFC-CAD1023EF606}|Calculadora_MVVC.csproj|solutionrelative:imcmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\source\\repos\\Calculadora_MVVC\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\manue\\source\\repos\\Calculadora_MVVC\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T01:17:55.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\source\\repos\\Calculadora_MVVC\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\manue\\source\\repos\\Calculadora_MVVC\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T01:17:50.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\manue\\source\\repos\\Calculadora_MVVC\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\manue\\source\\repos\\Calculadora_MVVC\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T01:17:47.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMCViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\source\\repos\\Calculadora_MVVC\\IMCViewModel.cs",
+              "RelativeDocumentMoniker": "IMCViewModel.cs",
+              "ToolTip": "C:\\Users\\manue\\source\\repos\\Calculadora_MVVC\\IMCViewModel.cs",
+              "RelativeToolTip": "IMCViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T01:16:22.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMCModel.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\source\\repos\\Calculadora_MVVC\\IMCModel.cs",
+              "RelativeDocumentMoniker": "IMCModel.cs",
+              "ToolTip": "C:\\Users\\manue\\source\\repos\\Calculadora_MVVC\\IMCModel.cs",
+              "RelativeToolTip": "IMCModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T01:13:06.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
