@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculadora_MVVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+283a0e2d6a7527dea9e0c64e09871fc8a29afc6d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculadora_MVVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculadora_MVVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
